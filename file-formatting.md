@@ -1,0 +1,52 @@
+
+# Formatting Files
+
+## Reformat file to coding standard
+
+```
+I used the coding standard and my IDE
+and formatted code automatically 
+to shift things around
+and align them a bit
+to increase it's quality
+```
+
+a humorous version
+
+```
+I used the coding standard
+to shift things around a bit
+To format and align them
+for readability
+so the coders don't quit
+```
+
+or in homage to Lord of the Rings  
+
+```
+One standard to format them all, one standard to align them,
+One standard to bring them all and in the codebase mind them.
+```
+
+## Move HTML and JS to separate files
+
+```
+Standing on their own
+They each become stronger, then
+brought back together
+```
+
+In legacy applications, the HTML, CSS, PHP, and JS are often in the same file as the program logic. Separating them into their own files, makes them easier to edit, less fragile, and it's better for collaboration.  
+
+```
+PHP, markup, JavaScript
+and cascading styles
+all need a home
+each in their own files
+
+Simpler to edit, read
+and understand what changed
+one won't affect the other
+when things get rearranged
+```
+
