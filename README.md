@@ -33,6 +33,7 @@ In each of these sections, The primary heading of the page reflects the
  name in the Table of Contents. The second level headings are the subject
  line of your commit message. Each of the pre-formatted blocks under the h2, are the descriptive part of the commit message. 
 
+[Link to example file](example.md)
 
 ## Table of Contents
 
