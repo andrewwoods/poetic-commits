@@ -23,4 +23,13 @@ that we have seven
 
 __Note:__ the mysql extension was deprecated in 5.5, and removed in PHP 7.0
 
+## Add Composer to project
+
+```
+Add composer.json to add packages and autoload
+so the packages can be found by your code
+Add composer.lock to verify the lot
+so your team downloads the same as you've got
+```
+
 
