@@ -50,3 +50,21 @@ one won't affect the other
 when things get rearranged
 ```
 
+## Remove Commented Code
+
+Commenting out blocks of code only makes the code worse. You don't need to
+"save it for later".  Version control systems are good at remembering what was
+changed and by who.  Commenting out blocks of code is unnecessary.
+
+```
+blocks of code commented out
+obscuring the running code
+forcing you to concentrate
+increasing mental load
+
+remove the code
+if you aren't sure
+to keep code clean
+so it may endure
+```
+
