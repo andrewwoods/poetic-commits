@@ -68,3 +68,16 @@ to keep code clean
 so it may endure
 ```
 
+## Remove Dead Code
+
+Dead code that which runs, but is never used.  It consuming resources, without
+adding value.  It provides the opportunity to introduce bugs, and cause errors.
+The best thing to do is to remove it.
+
+```
+good code does what's needed
+yet leaves room to be improved
+Dead code only makes things worse
+and is best when it is removed
+```
+
