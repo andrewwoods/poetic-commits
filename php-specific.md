@@ -38,7 +38,7 @@ WordPress, Drupal, and I'm sure a few others have a rule: "Don't Hack Core".
 
 You really shouldn't "hack core". On occasion though, you have to.  So when it
 happens, use this to recognize you're not supposed to and ask forgiveness from
-your the future developer.
+the next developer.
 
 ```
 Don't Hack Core! I know!
