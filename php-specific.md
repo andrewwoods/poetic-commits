@@ -32,4 +32,27 @@ Add composer.lock to verify the lot
 so your team downloads the same as you've got
 ```
 
+## I hacked Core, but just a little
 
+WordPress, Drupal, and I'm sure a few others have a rule: "Don't Hack Core".
+
+You really shouldn't "hack core". On occasion though, you have to.  So when it
+happens, use this to recognize you're not supposed to and ask forgiveness from
+your the future developer.
+
+```
+Don't Hack Core! I know!
+that's what they say
+Just this once! I said
+and I did it anyway
+
+It's just for now, I promise
+It will get fixed later
+but I still feel dirty
+worse than if I followed Vader
+
+So forgive me this tresspass
+let us move on for now
+I'm sure in a future release
+it'll get fixed some how
+```
