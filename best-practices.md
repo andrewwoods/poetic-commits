@@ -15,6 +15,16 @@ Git Ignore is a file that allows you to hide certains files and directories,
 whose names match a pattern, to prevent them from being added to Git. There are
 several reasons why you might want to not add certain files to your repository.
 
+## Add a project README
+
+```
+Tell them how you're gonna help
+Tell them what they want to know
+Show them how they can help
+Show them where to go
+Help them learn what's coming
+Help them learn what's so
+```
 
 ## Separate your concerns: logic, content, and style
 
